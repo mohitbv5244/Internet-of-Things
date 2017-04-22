@@ -1,0 +1,6 @@
+this project uses an LED with 200ohm resistorand the intel edison 
+board.
+
+The project has been compiled on Intel XDK, which uses Javascript and HTML.
+A simple app has been created and we can control the LED ON/OFF from the app.
+ please refer to the pictures.
