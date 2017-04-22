@@ -1,0 +1,7 @@
+In this project, we have a LCD, a temperature sensor and the intel edison
+development board.
+The values that are read from the tempearture sensor
+are displayed on the XDK platform and on the APP.
+But, before we can see the values, we need to enter the port number 
+and after the verfifcation, we can see the values displayed on the APP.
+Please refer to the photos updated.
