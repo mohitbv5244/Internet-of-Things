@@ -1,0 +1,70 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      ".gitignore": {
+        "previousModTime": 1493241750762,
+        "modified": 1493241750762,
+        "seen": true,
+        "name": ".gitignore"
+      },
+      "icon.png": {
+        "previousModTime": 1493241750764,
+        "modified": 1493241750764,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "LICENSE.md": {
+        "previousModTime": 1493241750765,
+        "modified": 1493241750765,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "main.js": {
+        "previousModTime": 1493241750765,
+        "modified": 1493241750765,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1493241750766,
+        "modified": 1493241750766,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1493241750766,
+        "modified": 1493241750766,
+        "seen": true,
+        "name": "README.md"
+      },
+      "touch_part.xdk": {
+        "previousModTime": 1493241752303,
+        "modified": 1493241752303,
+        "seen": true,
+        "name": "touch_part.xdk"
+      },
+      "touch_part.xdke": {
+        "previousModTime": 1493243229239,
+        "modified": 1493243229239,
+        "seen": true,
+        "name": "touch_part.xdke"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1493241751755,
+        "modified": 1493241751755,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
