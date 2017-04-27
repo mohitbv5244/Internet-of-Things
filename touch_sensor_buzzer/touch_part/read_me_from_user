@@ -1,0 +1,15 @@
+components required:
+1) Touch sensor
+2) A buzzer
+3) Intel Edison board
+
+We have the main XDK file that contains Javascript files, where
+the tocuh sensor values are read and displayed on the XDK platform
+depending on the touch sensor values.
+When the touch sensor is pressed, the buzzer is switched ON
+and it is displayed on the XDK platform.
+
+There is a mobile APP which is called touch sensor part,
+when we enter the right IP address and the port number, depending on the
+touch values, we can see the buzz is ON or not from an APP.
+
